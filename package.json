@@ -1,5 +1,5 @@
 {
-  "name": "theme-vdoing-blog",
+  "name": "my-blog",
   "version": "1.0.0",
   "scripts": {
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider && node --max_old_space_size=4096 ./node_modules/vuepress/cli.js dev docs",
@@ -31,5 +31,7 @@
     "vuepress-plugin-zooming": "^1.1.7",
     "vuepress-theme-vdoing": "^1.12.9",
     "yamljs": "^0.3.0"
-  }
+  },
+  "author": "Yang9725",
+  "homepage": "https://yang9725.github.io/my-blog/"
 }
